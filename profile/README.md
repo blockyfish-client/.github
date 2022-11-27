@@ -23,7 +23,7 @@ Check out these other repos:
 Tell us on our [discord server](https://discord.gg/8Amw32CrGR). 
 
 #### Have something to contribute to the project?
-Message `.pi#3141` for more information
+Message `.pi#1803` for more information
 
 ## 📦 Downloads  
 #### Forgot the links?
