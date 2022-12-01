@@ -13,10 +13,11 @@ See the main repo [here](https://github.com/blockyfish-client/Desktop-Client)
 
 #### Just looking around?
 Check out these other repos:
-- **[Desktop-Client](https://github.com/blockyfish-client/Desktop-Client) — The part that most people are here for.**
-- [Website](https://github.com/blockyfish-client/Website) — The source for [blockyfish website](https://blockyfish.netlify.app).  
-- [Desktop-Forums](https://github.com/blockyfish-client/Desktop-Forums) — A small little side-project, aiming to create a standalone app for just the Deeeep.io Forums.  
-- [Assets](https://github.com/blockyfish-client/Assets) — The dumpster for images, files, notes, etc. A place for important things that do not need to be a part of any repo.  
+- **[Desktop client](https://github.com/blockyfish-client/desktop-client) — The part that most people are here for.**
+- **[Chrome extension](https://github.com/blockyfish-client/chrome-extension) — Use Blockyfish in any browser that supports Chrome extensions.**
+- [Website](https://github.com/blockyfish-client/website) — The source for [blockyfish website](https://blockyfish.netlify.app).  
+- [Desktop forums](https://github.com/blockyfish-client/desktop-forums) — A small little side-project, aiming to create a standalone app for just the Deeeep.io Forums.  
+- [Assets](https://github.com/blockyfish-client/assets) — The dumpster for images, files, notes, etc. A place for important things that do not need to be a part of any repo.  
 
 ## 📬 Feedback and contribution
 #### Do you have any ideas or any suggestions for the client?
