@@ -36,9 +36,13 @@ Check out these repos:
 - [Docs](https://github.com/blockyfish-client/docs) — The [documentation](https://blockyfish.vercel.app/docs).
 - [Assets](https://github.com/blockyfish-client/assets) — The dumpster for images, files, notes, etc. A place for important things that do not need to be a part of any repo.
 
+### ⭐ Other related projects
+- [Deeeep.io map tester](https://github.com/blockyfish-client/deeeepio-map-tester) — Allows you to play test maps from the mapmaker. Visit the website [here](https://deeeepio-maptest.vercel.app). (WIP)
+- [Image to Deeeep.io Map](https://github.com/blockyfish-client/mapmaker-image-paste) — Allows you to render images in the mapmaker. Visit the website [here](https://img2dpm.netlify.app).
+
 ## 📬 Feedback and contribution
-#### Do you have any ideas or any suggestions for the client?
+### Do you have any ideas or any suggestions for the client?
 Tell us on our [discord server](https://discord.gg/vQnrUVxAvT). 
 
-#### Have something to contribute to the project?
+### Have something to contribute to the project?
 Open a pull request or message `.pi3141` on Discord for more information
