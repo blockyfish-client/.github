@@ -1,33 +1,38 @@
-# 👋 Welcome!
+<h1>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/blockyfish-client/desktop-client/master/build/icons/64x64.png" width="64" height="64" />
+        <br />
+        Blockyfish Client
+        <br />
+    </p>
+</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
+<p align="center">
+    <i>Blockyfish is a custom client made for <a href="https://deeeep.io">Deeeep.io</a> made with Electron.js. It allows plugins to be easily created to modify the game experience.</i>
+</p>
 
-[![Blockyfish Client Banner](https://raw.githubusercontent.com/blockyfish-client/Assets/main/blockyfishclientbanner.png)](https://blockyfish.netlify.app)
+## 🚀 Downloads
+Download the latest version of the client from the [official website](https://blockyfish.vercel.app).
 
-----
-<h3 align="center">Blockyfish client is an alternative to the Deeeep.io Desktop Client. It is built with ElectronJS and features Discord Rich Presence and Doctorpus Assets.</h3>  
+## 🔎 Exploring
+### Wondering how the client works?
+See the main repo [here](https://github.com/blockyfish-client/desktop-client)  
 
-----
-
-## 🚀 Get Started
-#### Wanna find out how the desktop client works?
-See the main repo [here](https://github.com/blockyfish-client/Desktop-Client)  
-
-#### Just looking around?
-Check out these other repos:
+### Just looking around?
+Check out these repos:
 - **[Desktop client](https://github.com/blockyfish-client/desktop-client) — The part that most people are here for.**
-- **[Chrome extension](https://github.com/blockyfish-client/chrome-extension) — Use Blockyfish in any browser that supports Chrome extensions.**
-- [Website](https://github.com/blockyfish-client/website) — The source for [blockyfish website](https://blockyfish.netlify.app).  
-- [Desktop forums](https://github.com/blockyfish-client/desktop-forums) — A small little side-project, aiming to create a standalone app for just the Deeeep.io Forums.  
-- [Assets](https://github.com/blockyfish-client/assets) — The dumpster for images, files, notes, etc. A place for important things that do not need to be a part of any repo.  
+- [Plugins](https://github.com/blockyfish-client/plugins) — A list of plugins available in the desktop client.
+
+- [Website](https://github.com/blockyfish-client/website) — The source for [blockyfish website](https://blockyfish.vercel.app).
+- [Docs](https://github.com/blockyfish-client/docs) — The [documentation](https://blockyfish.vercel.app/docs).
+- [Assets](https://github.com/blockyfish-client/assets) — The dumpster for images, files, notes, etc. A place for important things that do not need to be a part of any repo.
 
 ## 📬 Feedback and contribution
 #### Do you have any ideas or any suggestions for the client?
-Tell us on our [discord server](https://discord.gg/8Amw32CrGR). 
+Tell us on our [discord server](https://discord.gg/vQnrUVxAvT). 
 
 #### Have something to contribute to the project?
-Message `.pi#1803` for more information
-
-## 📦 Downloads  
-#### Forgot the links?
-Don't worry, it's right here for you!
-Latest version: https://blockyfish.netlify.app  
-Older version: [releases page](https://github.com/blockyfish-client/Desktop-Client/releases)  
+Open a pull request or message `.pi3141` on Discord for more information
