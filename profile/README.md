@@ -17,13 +17,19 @@
 ## 🚀 Downloads
 Download the latest version of the client from the [official website](https://blockyfish.vercel.app).
 
+## ✅ Supported platforms
+- [x] Windows
+- [x] MacOS
+- [x] Linux
+- [ ] Android
+
 ## 🔎 Exploring
 ### Wondering how the client works?
 See the main repo [here](https://github.com/blockyfish-client/desktop-client)  
 
 ### Just looking around?
 Check out these repos:
-- **[Desktop client](https://github.com/blockyfish-client/desktop-client) — The part that most people are here for.**
+- **[Desktop client](https://github.com/blockyfish-client/desktop-client) — The most important repo.**
 - [Plugins](https://github.com/blockyfish-client/plugins) — A list of plugins available in the desktop client.
 
 - [Website](https://github.com/blockyfish-client/website) — The source for [blockyfish website](https://blockyfish.vercel.app).
