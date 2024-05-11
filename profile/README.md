@@ -7,11 +7,7 @@
     </p>
 </h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-<p align="center">
-    <i>Blockyfish is a custom client made for <a href="https://deeeep.io">Deeeep.io</a> made with Electron.js. It allows plugins to be easily created to modify the game experience.</i>
+    <i>Blockyfish is a custom client made for <a href="https://deeeep.io">Deeeep.io</a>. It has many QoL improvements.</i>
 </p>
 
 ## 🚀 Downloads
