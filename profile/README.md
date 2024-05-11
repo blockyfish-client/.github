@@ -25,8 +25,10 @@ See the main repo [here](https://github.com/blockyfish-client/desktop-client)
 
 ### Just looking around?
 Check out these repos:
-- **[Desktop client](https://github.com/blockyfish-client/desktop-client) — The most important repo.**
+- **[Desktop client](https://github.com/blockyfish-client/desktop-client) — Desktop version made with Electron.js.**
 - [Plugins](https://github.com/blockyfish-client/plugins) — A list of plugins available in the desktop client.
+
+- **[Android client](https://github.com/blockyfish-client/android-client) — Android version made with Kotlin.**
 
 - [Website](https://github.com/blockyfish-client/website) — The source for [blockyfish website](https://blockyfish.vercel.app).
 - [Docs](https://github.com/blockyfish-client/docs) — The [documentation](https://blockyfish.vercel.app/docs).
